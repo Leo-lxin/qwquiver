@@ -22,3 +22,6 @@ data
 cli/cmd/rela.go
 
 rela
+__pycache__/
+*.pyc
+*.pyo

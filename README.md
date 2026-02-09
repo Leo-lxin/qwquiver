@@ -77,6 +77,26 @@ $ ./build_frontend.sh # build frontend
 $ ./build_win.sh # build for windows
 ```
 
+## Additional Tools
+
+### 🏥 Medical Review Planning Tool
+
+新增：**3D医疗影像与大语言模型综述策划工具**
+
+专为生物医学工程研究生设计的综述论文策划工具，聚焦动态3D/4D医疗数据与大语言模型的交叉领域。
+
+📍 位置: `medical_review_planner/`
+
+🔗 详情: [MEDICAL_REVIEW_TOOL.md](MEDICAL_REVIEW_TOOL.md)
+
+快速开始:
+```bash
+cd medical_review_planner
+python review_generator.py
+```
+
+---
+
 ## Screenshots
 
 ![](https://user-images.githubusercontent.com/22412567/89917968-0b088180-dc2c-11ea-882e-204382d49818.png)
